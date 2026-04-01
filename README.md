@@ -81,14 +81,6 @@ I'm a final-year CS student who loves building systems that **scale** — from A
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rangastalam&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rangastalam&layout=compact&theme=github_dark&hide_border=true" height="160" />
-</p>
-
----
 
 <p align="center">
   <i>Currently seeking new grad Software Engineer roles — backend, full-stack, or pla
