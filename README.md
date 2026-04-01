@@ -71,7 +71,7 @@ I'm a final-year CS student who loves building systems that **scale** — from A
 
 ---
 
-### ⚔️ [AlgoForge](https://github.com/Rangastalam/algoforge)
+### ⚔️ [AlgoForge](https://github.com/Rangastalam/leetcode clone)
 > A LeetCode-style coding practice platform with a containerized judge engine.
 
 - **Stack:** Next.js · Prisma · PostgreSQL · Docker · React
